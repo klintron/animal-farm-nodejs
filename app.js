@@ -6,8 +6,10 @@ var animals = {
     "cat": "meow",
     "dog": "bark",
     "eel": "hiss",
-    "bear": "growl",
+    "bear": "grumble",
     "frog": "croak",
+    "hippo": "yawn",
+    "cow": "moo",
     "lion": "roar"
 }
 
